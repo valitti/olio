@@ -1,5 +1,9 @@
 <resources>
-    <string name="app_name">Nappi</string>
+    <string name="app_name">Notepad</string>
     <string name="paina_nappia">Press me</string>
-    <string name="something">Something</string>
+    <string name="input">Tiedostoon kirjoitettava sisältö…</string>
+    <string name="writeFile">Kirjoitettavan tiedoston nimi…</string>
+    <string name="readFile">Luettavan tiedoston nimi…</string>
+    <string name="kirjoita_tiedosto">Kirjoita tiedosto</string>
+    <string name="lue_tiedosto">Lue tiedosto</string>
 </resources>
