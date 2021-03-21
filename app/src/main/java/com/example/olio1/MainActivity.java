@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void painaNappia (View v) {
         System.out.println("Hello World!");
+        System.out.println("hello hello");
     }
 }
