@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Olio1</string>
+    <string name="app_name">Nappi</string>
+    <string name="paina_nappia">Press me</string>
+    <string name="something">Something</string>
 </resources>
